@@ -1,3 +1,5 @@
+<h2> Hello World, Saya akan melakukan pengeditan pada github <h2>
+
 <?php
 include 'Latihan_Database.php';
 $db = new database();
