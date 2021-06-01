@@ -1,4 +1,4 @@
-<h3> Hello, Ini adalah hasil branch dari branch 1 <h3>
+<h3> Hello, Saya akan melakukan pengeditan dengan Github <h3>
 
 <htmlxmlns="http://www.w3.org/1999/xhtml">
     <head>
